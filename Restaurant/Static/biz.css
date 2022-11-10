@@ -1,0 +1,104 @@
+.sec4cont{margin-top: 30px;}
+
+.sec4cont article{
+    width: 70%;
+    float: left;
+    padding: 10px;
+    border-right: 1px dotted;
+}
+
+.sec4cont article img{
+    padding: 1px;
+    -webkit-box-shadow: 0 0 4px rgba(0,0,0,0.50);
+	-moz-box-shadow: 0 0 4px rgba(0,0,0,0.50);
+	box-shadow: 0 0 4px rgba(0,0,0,0.50);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.sec4cont article h3, .sidebar h3{font-size: 30px;}
+
+.date{
+    float: left;
+    position: relative;
+    margin-right: 10px;
+    padding: 44px 5px 0;
+}
+
+.date .day{
+    font-size: 35px;
+    line-height: 45px;
+    position: absolute;
+    left: 5px;
+    top: 0;
+}
+
+.date .month{font-size: 25px;}
+
+.date .year{
+    display: block;
+    position: absolute;
+    right: -5px;
+    top: 15px;
+    -webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+}
+
+.date .day, .month, .year{font-family: Arial, Helvetica, sans-serif;}
+
+.sec4cont article .right{
+    float: right;
+    margin-left: 10px;
+    padding: 1px;
+	-webkit-box-shadow: 0 0 4px rgba(0,0,0,0.50);
+	-moz-box-shadow: 0 0 4px rgba(0,0,0,0.50);
+	box-shadow: 0 0 4px rgba(0,0,0,0.50);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.sec4cont article p, .sidebar p{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    color: black;
+}
+
+.sec4cont article p strong, .sidebar p strong{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.sec4cont article h1{font-size: 50px;}
+.sec4cont article h2{font-size: 45px;}
+.sec4cont article #h3level{font-size: 40px;}
+.sec4cont article h4{font-size: 35px;}
+.sec4cont article h5{font-size: 30px;}
+.sec4cont article h6{font-size: 25px;}
+
+.sec4cont article blockquote{
+    background: transparent url(../Assets/blockquote.png) no-repeat 0px 30px;
+    padding: 30px;
+    font-style: italic;
+}
+
+.sec4cont .sidebar{
+    width: 30%;
+    height: max-content;
+    float: right;
+    padding: 10px;
+}
+
+.sec4cont .sidebar #devam{
+    float: right;
+    border-bottom: 1px dotted;
+    color: #9c5959;
+}
+
+#sec4 #sec4end1{width: 100%; border-top: 2px dotted;}
+#sec4 #sec4end2{width: 100%; border-top: 2px solid;}

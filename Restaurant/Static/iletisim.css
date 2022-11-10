@@ -1,0 +1,71 @@
+.sec8left{
+    width: 70%;
+    height: max-content;
+    float: left;
+    border-right: 2px dotted;
+    padding: 10px;
+}
+
+.sec8left h3{font-size: 40px;}
+
+.sec8left p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.sec8left label{font-size: 25px;}
+
+.sec8left input{
+    width: 300px;
+    height: 30px;
+    background: transparent;
+    border: 1px dotted;
+}
+
+.sec8left textarea{
+    width: 400px;
+    height: 200px;
+    border: 1px dotted;
+    background: transparent;
+}
+
+.sec8left button{
+    width: 100px;
+    height: 50px;
+    background-color: #9c5959;;
+    color: white;
+    font-size: 20px;
+}
+
+.sec8right{
+    width: 30%;
+    height: max-content;
+    float: right;
+    padding: 10px;
+}
+
+.s8topright h3{font-size: 30px; text-align: center;}
+.s8bottomright h3{font-size: 30px; text-align: center;}
+
+.s8topright a{
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px dotted;
+}
+
+.s8topright p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14px;
+}
+
+.s8bottomright p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14px;   
+}
+
+.s8bottomright #devam{float: right; color: #9c5959;}
+#sec8 #sec8end1{width: 100%; border-top: 2px dotted;}
+#sec8 #sec8end2{width: 100%; border-top: 2px solid;}

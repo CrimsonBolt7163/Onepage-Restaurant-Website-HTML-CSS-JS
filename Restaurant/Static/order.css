@@ -1,0 +1,62 @@
+#ucret{
+    height: max-content;
+    display: flex;
+    justify-content: space-between;
+}
+
+.plan{
+    height: max-content;
+    background-color: #f8f5ec;
+}
+
+.plan h3{
+    text-align: center;
+    font-size: 30px;
+    height: 120px;
+    display: block;
+    background-color: #9c5959;
+    color: white;
+    border-radius: 5px 5px 0 0;
+}
+
+.plan h3 span{
+    text-align: center;
+    line-height: 100px;
+    display: block;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px 80px;
+}
+
+#button1{
+    width: 100px;
+    height: 40px;
+    background-color: #9c5959;
+    color: white;
+    font-size: 20px;
+    margin: 10px 80px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+#yazilar{text-align: center;}
+
+#yazilar li{
+    border-top: 1px solid lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    padding: 10px;
+}
+
+#yazilar li strong{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#sec3end1{width: 100%; border-top: 2px solid;}
+#sec3end2{width: 100%; border-top: 2px dotted;}

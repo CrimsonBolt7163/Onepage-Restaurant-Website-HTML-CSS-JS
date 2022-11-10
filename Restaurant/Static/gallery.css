@@ -1,0 +1,12 @@
+.sec6cont h3{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.sec6cont a img{border: 1px solid;}
+.galleryP1 a{padding: 13px;}
+.galleryP2 a{padding: 13px;}
+.galleryP2{margin-top: 30px;}
+
+#sec6 #sec6end1{width: 100%; border-top: 2px dotted;}
+#sec6 #sec6end2{width: 100%; border-top: 2px solid;}

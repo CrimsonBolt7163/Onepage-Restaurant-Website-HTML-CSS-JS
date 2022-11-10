@@ -1,0 +1,15 @@
+*{
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster', cursive;
+    color: #9c5959;
+}
+
+body{
+    background-color: #f3eede;
+    margin-top: 20px;
+}
+html{scroll-behavior: smooth;}

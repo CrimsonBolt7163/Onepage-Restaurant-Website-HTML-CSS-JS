@@ -1,0 +1,42 @@
+.sec7cont article{
+    width: 70%;
+    height: max-content;
+    float: left;
+    border-right: 2px dotted;
+    padding: 10px;
+}
+
+.sec7cont h3{font-size: 30px;}
+
+.sec7cont article blockquote{
+    background: transparent url(../Assets/blockquote.png) no-repeat 0px 30px;
+    padding: 30px;
+    font-style: italic;
+}
+
+.sec7cont article p, strong{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.sec7cont article strong{float: right;}
+
+.sec7cont aside{
+    width: 30%;
+    height: max-content;
+    float: right;
+    padding: 10px;
+}
+
+.sec7cont aside h3{text-align: center;}
+
+.sec7cont aside p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+}
+
+.sec7cont aside p #devam{float: right; color: #9c5959;;}
+
+#sec7 #sec7end1{width: 100%; border-top: 2px solid;}
+#sec7 #sec7end2{width: 100%; border-top: 2px dotted;}
